@@ -57,7 +57,7 @@ I contributed to the internal banking platform used across all Bank Al Habib bra
 
 ---
 
-## 🏢 Easypaisa – Corporate & Merchant Onboarding Systems
+## 🏢 Easypaisa Digital Bank (Telenor Microfinance Bank)
 
 **Role:** Frontend Engineer  
 **Stack:** Next.js, React, TypeScript, Node.js, Redux Toolkit, React Query, Formik, Tailwind CSS, Postman, Azure, Figma
