@@ -7,7 +7,7 @@
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-TailwindCSS%20%7C%20Figma-purple)
 ![Testing](https://img.shields.io/badge/Testing-Postman%20%7C%20Storybook-yellow)
 ![Database](https://img.shields.io/badge/Database-MySQL%20%7C%20PostgreSQL-lightblue)
-![Location](https://img.shields.io/badge/Based%20in-Pakistan-informational)
+![Location](https://img.shields.io/badge/Based%20in-Pakistan%20and%20UAE-informational)
 
 ---
 
@@ -59,7 +59,7 @@ I contributed to the internal banking platform used across all Bank Al Habib bra
 
 ## 🏢 Easypaisa – Corporate & Merchant Onboarding Systems
 
-**Role:** Lead Frontend Engineer  
+**Role:** Frontend Engineer  
 **Stack:** Next.js, React, TypeScript, Redux Toolkit, React Query, Formik, Tailwind CSS, Postman, Azure, Figma
 
 ### 1. Corporate Onboarding Portal  
