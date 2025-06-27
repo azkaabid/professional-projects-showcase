@@ -22,7 +22,7 @@ This repo showcases real-world projects I've delivered across my professional ro
 ## 🏦 Bank Al Habib – Core Banking System (via TeReSol Pvt. Ltd.)
 
 **Role:** Frontend Developer & Java Backend Developer  
-**Stack:** Vue.js, Vuex, Pinia, Storybook, Java (Quarkus), Node.js, Express.js, FSM, MySQL, Postman, Linux
+**Stack:** Vue.js, Vuex, Pinia, Storybook, Java (Spring Boot / Quarkus), Node.js, Express.js, FSM, MySQL, Postman, Linux
 
 ### Overview
 
@@ -60,7 +60,7 @@ I contributed to the internal banking platform used across all Bank Al Habib bra
 ## 🏢 Easypaisa – Corporate & Merchant Onboarding Systems
 
 **Role:** Frontend Engineer  
-**Stack:** Next.js, React, TypeScript, Redux Toolkit, React Query, Formik, Tailwind CSS, Postman, Azure, Figma
+**Stack:** Next.js, React, TypeScript, Node.js, Redux Toolkit, React Query, Formik, Tailwind CSS, Postman, Azure, Figma
 
 ### 1. Corporate Onboarding Portal  
 🔗 [Live Link](https://registerbusiness.easypaisa.com.pk/sign-up)
@@ -91,7 +91,7 @@ Contributed to UI development and API integrations using Figma-based designs. Fo
 ## 🌐 Japan Station Technologies – Workflow & EdTech Systems
 
 **Role:** Frontend Developer & QA Tester  
-**Stack:** HTML5, CSS3, Bootstrap, jQuery, JavaScript, PHP (Laravel), PostgreSQL
+**Stack:** HTML5, CSS3, React.js, Bootstrap, jQuery, JavaScript, PHP (Laravel), PostgreSQL
 
 ### Projects
 
